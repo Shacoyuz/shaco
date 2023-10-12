@@ -1,0 +1,24 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box ;
+}
+#drawButton{
+    border-radius: 20px;
+    color: #0f183e;
+    width: 400px;
+    height: 50px;
+    align-items: center;
+   
+}
+#kutu{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+li{
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+
